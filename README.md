@@ -6,7 +6,3 @@
 - [issue 用法](bugs.md)
 - [MarkDown 三级列表测试页面](re.md)
 
-表情测试。  
-:smile:  
-:thumbsup:  
-:pray:
